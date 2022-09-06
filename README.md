@@ -25,4 +25,4 @@ Each independent manufacturer had a respective method of defining their car's dr
 
 ## Correlation/Results
 
-In conclusion, matplotlib and seaborn were both used to find and visualize the correlation between each of the car's datapoints and price. [The following bar chart](https://drive.google.com/file/d/1w8yPcFlOeJERJ8eK0rR3AKsj9aGZJiy0/view?usp=sharing) was the result of the fully processed data. In conclusion, mileage had the greatest inverse relation to price, and year had the greatest direct relation to price.
+In conclusion, matplotlib and seaborn were both used to find and visualize the correlation between each of the car's datapoints and price. ![The following bar chart](https://drive.google.com/file/d/1w8yPcFlOeJERJ8eK0rR3AKsj9aGZJiy0/view?usp=sharing) was the result of the fully processed data. In conclusion, mileage had the greatest inverse relation to price, and year had the greatest direct relation to price.
